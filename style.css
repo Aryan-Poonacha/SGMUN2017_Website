@@ -1,0 +1,130 @@
+/*navigation bar*/
+
+.navbar-custom
+{
+  background-color: #0077BE;
+  color: #FFFFFF;
+}
+
+.nav-text
+{
+  color: #FFFFFF;
+  font-family: 'Agency FB', arial;
+  font-size: 120%;
+  letter-spacing: 2px;
+}
+
+.vertical-divider
+{
+  border-right: 1px solid #FFFFFF;
+}
+
+.vertical-divider:first-child
+{
+  border-left: 1px solid #FFFFFF;
+}
+
+/*CAROUSEL */
+
+.carousel-inner > .item > img {
+    margin: 0 auto;
+}
+
+#myCarousel
+{
+  background-color:#0077BE;
+}
+
+/* sub-nav-bar */
+
+.affix {
+    top: 20px;
+}
+.sub-nav-text
+{
+  font-family: 'Agency FB', arial;
+  font-size: 110%;
+  letter-spacing: 1px;
+  text-align: center;
+}
+
+
+.sub-nav-text.affix
+{
+  position: fixed;
+  right: 0px;
+  text-align: center;
+}
+
+/*main content*/
+
+.panel-heading
+{
+  font-family: 'Agency FB', arial;
+  font-size: 170%;
+  letter-spacing: 1px;
+}
+
+.panel-body
+{
+  font-family: 'Agency FB', arial;
+  font-size: 135%;
+}
+
+
+/*misc bar*/
+.misc-bar
+{
+  background-color: #000000;
+  text-align: center;
+  color: grey;
+ font-weight: lighter;
+}
+
+.misc-bar-text
+{
+  margin: 0;
+}
+
+/*misc*/
+
+#regulated-text-format
+{
+  font-family:'Agency FB', arial;
+  text-align:center;
+  font-size:150%;
+}
+
+#regulated-text-format2
+{
+  font-family:'Agency FB', arial;
+  font-size:150%;
+}
+
+.kbd
+{
+  font-family:'Agency FB', arial;
+  text-align:center;
+  font-size: 150%;
+}
+
+.kbd-holder
+{
+  font-family:'Agency FB', arial;
+  text-align:center;
+  font-size: 150%:
+}
+
+
+.committee-heading
+{
+  font-family:'Agency FB', arial;
+  text-align:center;
+  font-size:220%;
+}
+
+.committee-text
+{
+  font-family:'Agency FB', arial;
+  font-size:150%;
+}
